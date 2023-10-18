@@ -1,0 +1,19 @@
+{
+  "name": "bootcamp-2-persistent-data-with-postgresql-christosskoun",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/PZoR0Zi4) # Bootcamp Assignment 2: UF Directory App - Persisting data using PostgreSQL and Sequalize",
+  "main": "JSONtoPostgreSQL.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@sequelize/core": "^7.0.0-alpha.32",
+    "dotenv": "^16.3.1",
+    "pg": "^8.11.3",
+    "unimported": "^1.30.0"
+  }
+}
